@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Half A Man",
+  "base_artist": "ディーン・ルイス",
+  "createdAt": "2026-01-04T13:06:59.450286Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Half A Man",
+      "artist": "Willie Nelson",
+      "has_synced": false,
+      "path": "select/01_Half_A_Man_Willie_Nelson.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Half a Man",
+      "artist": "Willie Nelson feat. Merle Haggard",
+      "has_synced": false,
+      "path": "select/02_Half_a_Man_Willie_Nelson_feat._Merle_Haggard.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Half A Man",
+      "artist": "Willie Nelson & Merle Haggard",
+      "has_synced": false,
+      "path": "select/03_Half_A_Man_Willie_Nelson_&_Merle_Haggard.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Half a Man",
+      "artist": "Willie Nelson/Merle Haggard",
+      "has_synced": false,
+      "path": "select/04_Half_a_Man_Willie_Nelson_Merle_Haggard.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Half A Man",
+      "artist": "Stephen Lynch",
+      "has_synced": false,
+      "path": "select/05_Half_A_Man_Stephen_Lynch.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Half a Boy, Half a Man",
+      "artist": "George Thorogood & The Destroyers",
+      "has_synced": false,
+      "path": "select/06_Half_a_Boy,_Half_a_Man_George_Thorogood_&_The_Destroyers.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Half A Boy, Half A Man",
+      "artist": "George Thorogood And The Destroyers",
+      "has_synced": false,
+      "path": "select/07_Half_A_Boy,_Half_A_Man_George_Thorogood_And_The_Destroyers.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Half a Man",
+      "artist": "America",
+      "has_synced": true,
+      "path": "select/08_Half_a_Man_America.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Half a Man",
+      "artist": "Dean Lewis",
+      "has_synced": true,
+      "path": "select/09_Half_a_Man_Dean_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "02 Half a Man",
+      "artist": "Willie Nelson",
+      "has_synced": false,
+      "path": "select/10_02_Half_a_Man_Willie_Nelson.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Half a Man",
+      "artist": "Sergeant Thunderhoof",
+      "has_synced": false,
+      "path": "select/11_Half_a_Man_Sergeant_Thunderhoof.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Half A Man",
+      "artist": "Calum Scott",
+      "has_synced": true,
+      "path": "select/12_Half_A_Man_Calum_Scott.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Half a Boy and Half a Man",
+      "artist": "Nick Lowe",
+      "has_synced": true,
+      "path": "select/13_Half_a_Boy_and_Half_a_Man_Nick_Lowe.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Half A Boy & Half A Man",
+      "artist": "Nick Lowe",
+      "has_synced": true,
+      "path": "select/14_Half_A_Boy_&_Half_A_Man_Nick_Lowe.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Half A Man",
+      "artist": "Kenny Rogers",
+      "has_synced": false,
+      "path": "select/15_Half_A_Man_Kenny_Rogers.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Half a Man (With George Jones)",
+      "artist": "Willie Nelson",
+      "has_synced": false,
+      "path": "select/16_Half_a_Man_(With_George_Jones)_Willie_Nelson.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Half a Man",
+      "artist": "Dean Lewis",
+      "has_synced": false,
+      "path": "select/pl_01_Half_a_Man_Dean_Lewis.txt"
+    }
+  ]
+}
